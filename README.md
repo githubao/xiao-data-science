@@ -1,4 +1,4 @@
-# xiao-data-science-from-scratch
+# xiao-data-science
 &lt;data science from scratch> src code
 
 1. Introduction
